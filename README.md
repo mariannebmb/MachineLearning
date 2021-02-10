@@ -1,1 +1,1 @@
-# machinelearning_introducao
+Treinamento com algoritmos de Machine Learning utilizando Scikit-learn 
